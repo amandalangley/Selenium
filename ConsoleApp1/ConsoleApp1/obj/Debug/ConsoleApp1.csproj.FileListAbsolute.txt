@@ -1,0 +1,17 @@
+C:\Users\amanda.langley\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\amanda.langley\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\amanda.langley\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.engine.dll
+C:\Users\amanda.langley\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.engine.api.dll
+C:\Users\amanda.langley\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.engine.core.dll
+C:\Users\amanda.langley\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\amanda.langley\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.dll.config
+C:\Users\amanda.langley\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.dll
+C:\Users\amanda.langley\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\amanda.langley\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.framework.dll
+C:\Users\amanda.langley\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.dll
+C:\Users\amanda.langley\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.framework.xml
+C:\Users\amanda.langley\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\amanda.langley\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.dll
+C:\Users\amanda.langley\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\amanda.langley\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\amanda.langley\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\SeleniumExtras.WaitHelpers.dll
